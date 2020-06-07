@@ -1,3 +1,4 @@
+# README
 ```
 You need to change the file path of your wordlist
 ```
